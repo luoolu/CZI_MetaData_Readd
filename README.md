@@ -1,2 +1,2 @@
-# CZI_MetaData_Readd
+# CZI_MetaData_Read
 read all metaData with czi format
